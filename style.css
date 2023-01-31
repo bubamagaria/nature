@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    background-color: seagreen;
+    color: white
+    border: 1px solid seagreen;
+    border-radius: 3px;
+}
+}
+
+main {
+  background-color: seagreen;
+    
+}
+
+main img {
+    border: 1px solid seagreen;
+    border-radius: 5px;
+
+}
+
+footer {
+    background-color: seagreen;
+    color:white
+}
+
+h4 {
+    text-align: center;
+}
